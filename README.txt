@@ -1,6 +1,7 @@
 MY COMMIT TEST HEREA
 1
 2
+3
 prepare to reset
 test here
 
