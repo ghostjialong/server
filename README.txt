@@ -1,23 +1,6 @@
-MY COMMIT TEST HEREA
-1
-2
-3
-prepare to reset
-test here
-
-Jialong wang is going to launch up
-
-The greatest server is here, every thing is to be continued....
-
-Jialong Wang is a great hero
-
-Rebase to change the commit which msg is "first of every thing"
-
-this is a project to exerise git
-
-The greatest server is here, every thing is to be continued....
+Athena will be a great im server, you will see it ....
 
 
-Jialong Wang is a great hero
-Rebase to change the commit which msg is "first of every thing"
+Author: Jialong. Adam. Wang
 
+2017/11/06 23:39
